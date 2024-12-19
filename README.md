@@ -19,6 +19,6 @@ I'm working on improving my front-end and back-end skills. My goal is to become 
 ### Let's Connect! 📬
 Feel free to reach out if you're interested in collaborating, or if you have any feedback on my projects!
 
-- [Portfolio](#)
+<!-- - [Portfolio](#) -->
 
 Thank you for visiting my GitHub! 🙂
