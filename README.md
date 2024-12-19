@@ -1,6 +1,5 @@
 # Hi, I'm Novalexdroid! 👋
-![header](src/header.png)
-
+![](src/header3.png)
 
 ## I'm a Web Developer in the Making 🌱
 
