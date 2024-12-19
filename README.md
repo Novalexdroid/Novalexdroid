@@ -1,8 +1,6 @@
 # Hi, I'm Novalexdroid! 👋
+![header](src/header.png)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Novalexdroid.Novalexdroid&left_text=Visitors"  />
-</div>
 
 ## I'm a Web Developer in the Making 🌱
 
@@ -27,3 +25,6 @@ Feel free to reach out if you're interested in collaborating, or if you have any
 
 Thank you for visiting my GitHub! 🙂
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Novalexdroid.Novalexdroid&left_text=Visitors"  />
+</div>
