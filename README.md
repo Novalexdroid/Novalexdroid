@@ -10,9 +10,7 @@ I'm passionate about building websites and web applications that are both functi
 - **JavaScript**: Making websites interactive and dynamic.
 
 ### Current Projects 🚀
-(coming soon!)
-<!--- **Personal Portfolio Website**: Showcasing my skills, projects, and experience.
-- **To-Do List App**: A simple app to manage daily tasks. --->
+- [Random PW Generator (Web Extension)](https://github.com/Novalexdroid/password-generator-extension)
 
 ### What's Next? 🔜
 I'm working on improving my front-end and back-end skills. My goal is to become proficient in full-stack development and contribute to open-source projects.
@@ -20,8 +18,9 @@ I'm working on improving my front-end and back-end skills. My goal is to become 
 ### Let's Connect! 📬
 Feel free to reach out if you're interested in collaborating, or if you have any feedback on my projects!
 
-<!-- - [Portfolio](#) -->
 
+<!-- - [Portfolio](#) -->
+ 
 Thank you for visiting my GitHub! 🙂
 
 <div align="center">
