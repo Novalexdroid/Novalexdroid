@@ -1,5 +1,6 @@
-# Hi, I'm Novalexdroid! 👋
+# Hi, I'm Novalexdroid! <img src="https://github.com/user-attachments/assets/a2b8c43a-6830-4128-8cef-2650111a27ef" width="40px" height="40px">
 ![](src/header3.png)
+
 
 ## I'm a Web Developer in the Making 🌱
 
