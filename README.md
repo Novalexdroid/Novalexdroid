@@ -8,6 +8,7 @@ I'm passionate about building websites and web applications that are both functi
 ### My Skills & Technologies 💻
 - **HTML/CSS**: The building blocks of the web.
 - **JavaScript**: Making websites interactive and dynamic.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=novalexdroid&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Current Projects 🚀
 - [Random PW Generator (Web Extension)](https://github.com/Novalexdroid/password-generator-extension)
