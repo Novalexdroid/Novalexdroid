@@ -2,9 +2,6 @@
 ![](src/header3.png)
 
 
-## I'm a Web Developer in the Making 🌱
-
-I'm passionate about building websites and web applications that are both functional and user-friendly. My journey into web development is just beginning, but I am eager to learn and grow in this field.
 
 ### My Skills & Technologies 💻
 - **HTML/CSS**: The building blocks of the web.
