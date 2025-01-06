@@ -8,8 +8,9 @@
 - **JavaScript**: Making websites interactive and dynamic.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novalexdroid&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### Current Projects 🚀
+### Projects 🚀
 - [Random PW Generator (Web Extension)](https://github.com/Novalexdroid/password-generator-extension)
+- [Simple screen saver](https://github.com/Novalexdroid/screen-saver)
 
 ### What's Next? 🔜
 I'm working on improving my front-end and back-end skills. My goal is to become proficient in full-stack development and contribute to open-source projects.
