@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novalexdroid&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Projects 🚀
-- [Random PW Generator (Web Extension)](https://github.com/Novalexdroid/password-generator-extension)
+
 - [Simple screen saver](https://github.com/Novalexdroid/screen-saver)
 
 ### What's Next? 🔜
