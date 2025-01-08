@@ -1,6 +1,9 @@
 # Hi, I'm Novalexdroid! <img src="https://github.com/user-attachments/assets/a2b8c43a-6830-4128-8cef-2650111a27ef" width="40px" height="40px">
 ![](src/header3.png)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Novalexdroid.Novalexdroid&left_text=Visitors"  />
+</div>
 
 
 ### My Skills & Technologies 💻
@@ -23,6 +26,8 @@ Feel free to reach out if you're interested in collaborating, or if you have any
  
 Thank you for visiting my GitHub! 🙂
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Novalexdroid.Novalexdroid&left_text=Visitors"  />
-</div>
+
+![wave](https://github.com/user-attachments/assets/93b4e9f5-14b9-41ed-8043-e2d7671ecaea)
+
+
+
