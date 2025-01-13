@@ -14,6 +14,7 @@
 ### Projects 🚀
 
 - [Simple screen saver](https://github.com/Novalexdroid/screen-saver)
+- [color-contrast-checker(web extension)](https://github.com/Novalexdroid/color-contrast-checker)
 
 ### What's Next? 🔜
 I'm working on improving my front-end and back-end skills. My goal is to become proficient in full-stack development and contribute to open-source projects.
