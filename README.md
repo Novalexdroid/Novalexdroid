@@ -13,23 +13,24 @@
 
 ### Projects 🚀
 
-- [Simple screen saver](https://github.com/Novalexdroid/screen-saver)
-- [color-contrast-checker(web extension)](https://github.com/Novalexdroid/color-contrast-checker)
-- [color-picker(web extension)](https://github.com/Novalexdroid/color-picker)
+|    Project   | Used Language | Link | 
+|:------------:|---------------|------|
+| color-picker | HTML, CSS & JS|[View](https://github.com/Novalexdroid/color-picker)   |
+| color-contrast-checker | HTML, CSS & JS|[View](https://github.com/Novalexdroid/color-contrast-checker)   |
+| simple-screen-saver| HTML, CSS & JS|[View](https://github.com/Novalexdroid/screen-saver)  |
 
 ### What's Next? 🔜
 I'm working on improving my front-end and back-end skills. My goal is to become proficient in full-stack development and contribute to open-source projects.
 
 ### Let's Connect! 📬
 Feel free to reach out if you're interested in collaborating, or if you have any feedback on my projects!
-
-
-<!-- - [Portfolio](#) -->
+[Portfolio](https://novalexdroid.github.io/index.html)
  
 Thank you for visiting my GitHub! 🙂
 
 
 ![wave](https://github.com/user-attachments/assets/93b4e9f5-14b9-41ed-8043-e2d7671ecaea)
+
 
 
 
