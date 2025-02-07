@@ -22,9 +22,6 @@
 ### What's Next? 🔜
 I'm working on improving my front-end and back-end skills. My goal is to become proficient in full-stack development and contribute to open-source projects.
 
-### Let's Connect! 📬
-Feel free to reach out if you're interested in collaborating, or if you have any feedback on my projects!
-[Portfolio](https://novalexdroid.github.io/index.html)
  
 Thank you for visiting my GitHub! 🙂
 
